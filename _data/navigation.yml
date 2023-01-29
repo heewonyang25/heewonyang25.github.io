@@ -6,7 +6,7 @@ main:
     sublinks:
       - title: "Back-End"
         url: /back-end/
-      - title: "Datascience"
+      - title: "Data Science"
         url: /datascience/
       - title: "Machine Learning"
         url: /machine-learning/
