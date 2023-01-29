@@ -1,7 +1,31 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Projects"
+
+  - title: "Study Notes"
+    sublinks:
+      - title: "Back-End"
+        url: /back-end/
+      - title: "Datascience"
+        url: /datascience/
+      - title: "Machine Learning"
+        url: /machine-learning/
+
+  - title: "Interests"
+    sublinks:
+      - title: "CS Papers"
+        url: /cs-papers/
+      - title: "Daily Tech News"
+        url: /tech-news/
+      - title: "Jekyll Blog"
+        url: /jekyll-blog/
+      - title: "Other"
+        url: /other/
+
+  - title: "Categories"
+    url: /categories/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
