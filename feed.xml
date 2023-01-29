@@ -1,5 +1,8 @@
+---
+layout: none
+---
 
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>{{ site.name | xml_escape }}</title>
@@ -11,12 +14,12 @@
         <item>
             <title>{{ post.title | xml_escape }}</title>
             {% if post.author.name %}
-            <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
+                <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
             {% endif %}
             {% if post.excerpt %}
-            <description>{{ post.excerpt | xml_escape }}</description>
+                <description>{{ post.excerpt | xml_escape }}</description>
             {% else %}
-            <description>{{ post.content | xml_escape }}</description>
+                <description>{{ post.content | xml_escape }}</description>
             {% endif %}
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <link>{{ site.url }}{{ post.url }}</link>
