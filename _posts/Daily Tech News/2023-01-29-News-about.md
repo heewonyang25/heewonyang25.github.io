@@ -3,7 +3,7 @@ title: "'Daily Tech News' Category"
 tags: [Daily Tech News]
 categories:
   - Daily Tech News
-date: 2020-07-14
+date: 2023-01-29
 ---
 
 This category includes a summary of daily technology news. It will cover current trends, new issues or technology of the month. It will follow the 6-W's writing style, to strategically describe the issue.
