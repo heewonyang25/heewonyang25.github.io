@@ -1,6 +1,9 @@
 # main links
 main:
-  #- title: "Projects"
+  - title: "Projects"
+    sublinks:
+      - title: "Spring MVC"
+        url: /projects/spring-mvc/
 
   - title: "Study Notes"
     sublinks:
