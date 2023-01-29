@@ -24,8 +24,8 @@ description              : "Heewon's Blog"
 url                      : "https://heewonyang25.github.io"
 baseurl                  : #"/blog"
 repository               : "heewonyang25/minimal-mistakes"
-teaser                   : #"/assets/images/myface.png"
-logo                     : #"/assets/images/myface.png"
+teaser                   : "/assets/images/sitelogo.png"
+logo                     : #"/assets/images/sitelogo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
