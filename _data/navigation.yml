@@ -7,7 +7,7 @@ main:
       - title: "Back-End"
         url: /back-end/
       - title: "Data Science"
-        url: /datascience/
+        url: /data-science/
       - title: "Machine Learning"
         url: /machine-learning/
 
