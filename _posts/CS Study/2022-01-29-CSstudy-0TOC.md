@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning - Table of Contents"
-tags: [Machine Learning]
-permalink: "/machine-learning/"
+title: "CS Study - Table of Contents"
+tags: [CS-Study]
+permalink: "/cs-study/"
 categories:
-  - Machine Learning
+  - CS-Study
   - Study
 date: 2023-01-29
 author_profile: true
