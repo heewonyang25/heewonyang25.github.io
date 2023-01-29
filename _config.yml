@@ -24,8 +24,8 @@ description              : "Heewon's Blog"
 url                      : "https://heewonyang25.github.io"
 baseurl                  : #"/blog"
 repository               : "heewonyang25/minimal-mistakes"
-teaser                   : #"/assets/images/heewon.png"
-logo                     : #"/assets/images/heewon.png"
+teaser                   : #"/assets/images/myface.png"
+logo                     : #"/assets/images/myface.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Heewon Yang"
-  avatar           : "/assets/images/heewon.png"
+  avatar           : "/assets/images/myface.png"
   bio              : "SW Developer & Data Scientist"
   location         : "NAVER"
   email            :
