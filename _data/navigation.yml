@@ -10,6 +10,8 @@ main:
         url: /data-science/
       - title: "Machine Learning"
         url: /machine-learning/
+      - title: "CS Study"
+        url: /cs-study/
 
   - title: "Interests"
     sublinks:

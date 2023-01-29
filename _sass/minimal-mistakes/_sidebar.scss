@@ -167,6 +167,7 @@
 
 .author__name {
   margin: 0;
+  padding-left: 35px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -180,6 +181,7 @@
 
 .author__bio {
   margin: 0;
+  padding-left: 35px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -195,6 +197,7 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
+  padding-left: 35px;
 
   li:last-child {
     a {
